@@ -29,3 +29,29 @@ Build Tools
         link: https://gradle.org/releases/
         Installation steps: https://gradle.org/install/
 
+
+## IDE
+
+    Eclipse:
+        link: https://www.eclipse.org/downloads/
+
+    Intellij:
+        link: https://www.jetbrains.com/idea/download/
+
+    Visual Studio Code:
+        link: https://code.visualstudio.com/download
+
+
+
+## *Development environment setup*
+
+Prerequisites: Above software installed or extracted packages are present on your system. Your user have read and write permission on installation directories.
+
+*JDK home setup* 
+
+    follow instruction on https://www.baeldung.com/java-home-on-windows-7-8-10-mac-os-x-linux
+
+*Maven environment setup*
+
+    follow instruction on https://www.baeldung.com/install-maven-on-windows-linux-mac
+
